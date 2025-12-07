@@ -4,7 +4,7 @@
   <a href="https://sanjay-yadav-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00f5ff?style=for-the-badge" alt="Portfolio Website" />
   </a>
-  <a href="https://github.com/sanjayydv77/sanjayydv77/raw/main/Sanjay_Yadav_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/12fGkur87qpLqG6T0bDS4uV8u-mO-tpp0/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-00f5ff?style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
