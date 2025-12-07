@@ -1,4 +1,14 @@
 <!-- Neon header with typing & badge row -->
+<!-- Professional Header with Resume & Portfolio Links -->
+<p align="center">
+  <a href="https://sanjay-yadav-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00f5ff?style=for-the-badge" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/sanjayydv77/sanjayydv77/raw/main/Sanjay_Yadav_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-Download_PDF-00f5ff?style=for-the-badge" alt="Download Resume" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sanjay+Yadav;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;B.Tech+CSE+%40+AITR" alt="Typing SVG" />
 </p>
