@@ -1,3 +1,11 @@
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE student at **AITR, Indore** (2027)
+- 💻 Full Stack Web Developer focused on **React.js, Node.js, Express.js, MongoDB** with solid foundations in **DSA, OOP, DBMS and OS**
+- 🌱 Currently leveling up **TypeScript**, **cloud deployment** and building polished, production-ready MERN apps
+
+---
 <!-- Neon header with typing & badge row -->
 <!-- Professional Header with Resume & Portfolio Links -->
 <p align="center">
@@ -30,13 +38,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech CSE student at **AITR, Indore** (2027)
-- 💻 Full Stack Web Developer focused on **React.js, Node.js, Express.js, MongoDB** with solid foundations in **DSA, OOP, DBMS and OS**
-- 🌱 Currently leveling up **TypeScript**, **cloud deployment** and building polished, production-ready MERN apps
-
----
 
 ## 🛠️ Tech Stack & Tools
 
